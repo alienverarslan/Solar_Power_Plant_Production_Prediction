@@ -8,6 +8,6 @@ In the data set, the total hourly generation amounts of unlicensed solar power p
 
 The total number and installed power of these power plants on a provincial basis are as follows:
 
-| Attempt | #1  | #2  |
+| City | #Quantity  | #2  |
 | :---:   | :-: | :-: |
 | Seconds | 301 | 283 |
