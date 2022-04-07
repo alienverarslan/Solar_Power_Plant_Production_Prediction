@@ -26,7 +26,6 @@ The date range to be estimated has been determined as 01.12.2021 – 31.12.2021.
 In the generation table:
 
 * DateTime: specifies the time range in which the production was made in date-time format.
-
 * Generation: Specifies the total production in MWh in the relevant hour range.
 
 In the temperature table:
