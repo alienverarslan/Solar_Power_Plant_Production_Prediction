@@ -8,6 +8,33 @@ In the data set, the total hourly generation amounts of unlicensed solar power p
 
 The total number and installed power of these power plants on a provincial basis are as follows:
 
-| City | #Quantity  | #2  |
+| City | Quantity  | #Total Power(kW)  |
 | :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
+| Ankara | 664 | 382804.941 |
+| Bartın | 2 | 520 |
+| Karabük | 25 | 14561.2 |
+| Kastamonu | 25 | 9616.6 |
+| Kırıkkale | 61 | 55336 |
+| Zonguldak | 5 | 2830 |
+| Çankırı | 66 | 56336.16 |
+
+
+In addition to shared data, data enrichment can be done using data from open source data sources.
+
+The date range to be estimated has been determined as 01.12.2021 – 31.12.2021.
+in the generation table
+
+DateTime: specifies the time range in which the production was made in date-time format.
+
+Generation: Specifies the total production in MWh in the relevant hour range.
+
+in the temperature table
+
+DateTime: Specifies the time interval in which temperature variables are observed.
+AirTemperature: Specifies the air temperature in the hour range in Celsius.
+ComfortTemperature: Indicates the sensed air temperature in the hour range in Celsius.
+RelativeHumidity: Specifies the humidity in the hour range.
+WindSpeed: Specifies the wind speed in the hour range in km/h.
+WindDirection: Specifies the wind direction in the hour range.
+WWCode: Specifies the weather code in the time range.
+EffectiveCloudCover: Specifies the amount of cloudiness in the hour range in octal units of measure.
