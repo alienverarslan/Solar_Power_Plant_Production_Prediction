@@ -31,11 +31,11 @@ In the generation table:
 
 In the temperature table:
 
-DateTime: Specifies the time interval in which temperature variables are observed.
-AirTemperature: Specifies the air temperature in the hour range in Celsius.
-ComfortTemperature: Indicates the sensed air temperature in the hour range in Celsius.
-RelativeHumidity: Specifies the humidity in the hour range.
-WindSpeed: Specifies the wind speed in the hour range in km/h.
-WindDirection: Specifies the wind direction in the hour range.
-WWCode: Specifies the weather code in the time range.
-EffectiveCloudCover: Specifies the amount of cloudiness in the hour range in octal units of measure.
+* DateTime: Specifies the time interval in which temperature variables are observed.
+* AirTemperature: Specifies the air temperature in the hour range in Celsius.
+* ComfortTemperature: Indicates the sensed air temperature in the hour range in Celsius.
+* RelativeHumidity: Specifies the humidity in the hour range.
+* WindSpeed: Specifies the wind speed in the hour range in km/h.
+* WindDirection: Specifies the wind direction in the hour range.
+* WWCode: Specifies the weather code in the time range.
+* EffectiveCloudCover: Specifies the amount of cloudiness in the hour range in octal units of measure.
