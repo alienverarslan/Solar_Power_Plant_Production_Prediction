@@ -22,13 +22,14 @@ The total number and installed power of these power plants on a provincial basis
 In addition to shared data, data enrichment can be done using data from open source data sources.
 
 The date range to be estimated has been determined as 01.12.2021 – 31.12.2021.
-in the generation table
 
-DateTime: specifies the time range in which the production was made in date-time format.
+In the generation table:
 
-Generation: Specifies the total production in MWh in the relevant hour range.
+* DateTime: specifies the time range in which the production was made in date-time format.
 
-in the temperature table
+* Generation: Specifies the total production in MWh in the relevant hour range.
+
+In the temperature table:
 
 DateTime: Specifies the time interval in which temperature variables are observed.
 AirTemperature: Specifies the air temperature in the hour range in Celsius.
